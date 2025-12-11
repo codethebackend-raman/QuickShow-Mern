@@ -1,1 +1,1 @@
-test
+VITE_CLERK_PUBLISHABLE_KEY=pk_test_aGVscGVkLWNvdy02LmNsZXJrLmFjY291bnRzLmRldiQ
