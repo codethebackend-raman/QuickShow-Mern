@@ -24,3 +24,6 @@ body{
   left: 0;
 }
 
+.no-scrollbar{
+  scrollbar-width: none;
+}
