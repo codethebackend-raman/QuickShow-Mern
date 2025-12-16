@@ -35,5 +35,5 @@ client/node_modules/
 client/.env
 
 # Global
-.env
+# .env
 node_modules/
